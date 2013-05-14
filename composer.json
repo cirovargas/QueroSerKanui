@@ -1,0 +1,14 @@
+{
+    "name": "Teste QueroSerKanui",
+    "description": "https://github.com/Kanui/QueroSerKanui",
+    "homepage": "https://github.com/Kanui/QueroSerKanui",
+    "require-dev": {
+        "phpunit/phpunit": "3.7@stable",
+        "squizlabs/php_codesniffer": "dev-master"
+    },
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    }
+}
