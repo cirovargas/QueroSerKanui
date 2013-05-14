@@ -3,5 +3,5 @@
 namespace QueroSerKanui;
 
 interface KaNoisInterface {
-    public function getNumber();
+	public function getNumber();
 }
