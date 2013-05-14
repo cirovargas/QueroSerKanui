@@ -28,5 +28,3 @@ spl_autoload_register(
         }
     }
 );
-
-//new QueroSerKanui\Run();
