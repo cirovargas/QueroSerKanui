@@ -9,7 +9,7 @@ O motivo é mostrar as várias formas de código aumentando as chances de alguma
 
 Para executar
 -------------
-    php web/index.php // Ver o array retornado
-    phpunit tests/ // Ver o log dos testes
+    php Strategy/web/index.php // Ver o array retornado
+    phpunit Strategy/tests/ // Ver o log dos testes
 
 Ciro Vargas
