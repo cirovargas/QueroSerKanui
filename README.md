@@ -7,4 +7,9 @@ Fiz de 3 formas: uma usando command pattern sem factory outra usando strategy co
 
 O motivo é mostrar as várias formas de código aumentando as chances de alguma delas agradar os avaliadores
 
+Para executar
+-------------
+    php web/index.php // Ver o array retornado
+    phpunit tests/ // Ver o log dos testes
+
 Ciro Vargas
